@@ -1,0 +1,35 @@
+.oneNews{
+    margin: 10px 0;
+    line-height: 16px;
+}
+
+.firstRowNews{
+    display: flex;
+}
+
+.firstRowNews a{
+    padding: 0;
+    text-decoration: none;
+}
+
+.firstRowNews a, div{
+    font-size: 14px;
+}
+
+.news{
+    margin: 0 5px 0 3px;
+}
+
+.secondRowNews span{
+    margin-left: 15px;
+    font-size: 12px;
+}
+
+.secondRowNews{
+    margin-left: 30px;
+}
+
+.pos{
+    text-align: center;
+    width: 25px;
+}
